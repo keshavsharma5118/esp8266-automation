@@ -20,7 +20,11 @@
  *************************************************************/
 
 /* Fill in information from your Blynk Template here */
-/* Read more: https://bit.ly/BlynkInject */
+/* Read more: https://bit.ly/BlynkInject */ 
+#include <TimeLib.h>
+#include <BlynkSimpleEsp8266.h>
+#include "BlynkEdgent.h"
+
 #define BLYNK_TEMPLATE_ID "TMPL3tvX2r5F1"
 #define BLYNK_TEMPLATE_NAME "Quickstart Template"
 
